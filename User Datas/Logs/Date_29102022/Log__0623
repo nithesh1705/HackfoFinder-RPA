@@ -1,0 +1,27 @@
+10/29/2022 18:23:02 Started
+10/29/2022 18:23:02 Proceeding to ask laguage for communication.
+10/29/2022 18:23:06 Initiating to communicate in English.
+10/29/2022 18:23:10 English - language implemented
+10/29/2022 18:23:10 Initiating to ask language comfortabllity
+10/29/2022 18:23:13 Continuing in - English.
+10/29/2022 18:23:15 Proceding to Sign In
+10/29/2022 18:23:15 Proceding to Read data
+10/29/2022 18:23:15 Data has been read successfully
+10/29/2022 18:23:15 Opening Sign In form
+10/29/2022 18:23:29 The entered password in incorrect
+10/29/2022 18:23:33 Proceding to send password in the email
+10/29/2022 18:23:35 Password has sent in email
+10/29/2022 18:23:55 Proceding to try once again
+10/29/2022 18:23:58 Opening Sign In form
+10/29/2022 18:24:05 The entered password in incorrect
+10/29/2022 18:24:09 Proceding to send password in the email
+10/29/2022 18:24:11 Password has sent in email
+10/29/2022 18:24:23 Proceding to try once again
+10/29/2022 18:24:25 Opening Sign In form
+10/29/2022 18:24:32 Password has been entered correctly
+10/29/2022 18:24:32 Generating OTP
+10/29/2022 18:24:32 One time password (OTP) has generated
+10/29/2022 18:24:34 OTP has been sent in email
+10/29/2022 18:24:37 Opening Sign In successfull form
+10/29/2022 18:24:55 Signed in successfully
+10/29/2022 18:24:55 Opening main input form.

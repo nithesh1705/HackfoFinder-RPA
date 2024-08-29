@@ -1,0 +1,20 @@
+04/24/2023 09:14:54 Started
+04/24/2023 09:14:54 Proceeding to ask laguage for communication.
+04/24/2023 09:15:01 Initiating to communicate in Tamil.
+04/24/2023 09:15:15 Tamil - language implemented
+04/24/2023 09:15:15 Initiating to ask language comfortabllity
+04/24/2023 09:15:24 Communication language as changed to the English.
+04/24/2023 09:15:26 Proceding to Sign In
+04/24/2023 09:15:26 Proceding to Read data
+04/24/2023 09:15:26 Data has been read successfully
+04/24/2023 09:15:28 Opening Sign In form
+04/24/2023 09:15:38 Password has been entered correctly
+04/24/2023 09:15:38 Generating OTP
+04/24/2023 09:15:38 One time password (OTP) has generated
+04/24/2023 09:15:41 OTP has been sent in email
+04/24/2023 09:15:55 Opening Sign In successfull form
+04/24/2023 09:16:06 Signed in successfully
+04/24/2023 09:16:06 Opening main input form.
+04/24/2023 09:16:08 Selected to view task
+04/24/2023 09:17:25 Error: Error occured while working on collecting data on events.
+04/24/2023 09:17:33 Signing out.
